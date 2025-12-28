@@ -1,1 +1,4 @@
-print("밍코다!")
+print("minco v1.1")
+
+def sleep():
+    print("minco sleep")
